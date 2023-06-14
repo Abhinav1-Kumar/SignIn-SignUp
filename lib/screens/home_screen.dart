@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
         height: MediaQuery.of(context).size.height,
         decoration: const BoxDecoration(
             gradient: LinearGradient(colors: [
-              Color.fromRGBO(157, 47, 243, 1.0),
+              // Color.fromRGBO(157, 47, 243, 1.0),
               Color.fromRGBO(45, 68, 211, 1.0),
               Color.fromRGBO(43, 203, 203, 1.0),
             ], begin: Alignment.topCenter, end: Alignment.bottomCenter)),
